@@ -23,15 +23,14 @@
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
  
   # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vittoriaalopes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vittoriaalopes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vittoriaalopes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Vittoriaalopes&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vittoriaalopes&theme=dracula&hide_border=false)<br/>
   
  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Vittoriaalopes&repo=Vittoriaalopes&theme=react)](https://github.com/Vittoriaalopes/Vittoriaalopes)
+
 <!---
 Vittoriaalopes/Vittoriaalopes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
