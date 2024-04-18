@@ -1,7 +1,7 @@
 <h2> Oie, eu sou a Vittoria Lopes 🐍 
 <img src="https://octodex.github.com/images/femalecodertocat.png" align="right" height="350px" width="350px" border-radius="55%" />
 <div>
-<h4>✅ Analista de Sistemas<br> </h4><h4>✅ Desenvolvedora backend</h4>
+<h4>✅ Analista de Sistemas<br> </h4><h4>✅ Cyber</h4>
 <hr>
  
  Principais linguagens: <br>
