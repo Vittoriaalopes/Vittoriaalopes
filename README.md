@@ -30,7 +30,6 @@
 
 <!-- ===== FOOTER WAVE ===== -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:049CD8,100:43B047&height=120&section=footer&text=Thanks%20for%20playing!&fontColor=ffffff&fontSize=18&font=Press%20Start%202P&fontAlignY=70" />
 </div>
 
 <!---
