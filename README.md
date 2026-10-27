@@ -1,55 +1,96 @@
+<!-- ============================================================= -->
+<!--                  VITTORIA LOPES · PROFILE                     -->
+<!--            Tema: Super Mario / Retro 8-bit Refinado           -->
+<!-- ============================================================= -->
+
 <div align="center">
 
-<!-- ====== BANNER PIXEL / MARIO ====== -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3000&pause=800&color=E52521&center=true&vCenter=true&width=700&height=70&lines=VITTORIA+LOPES" alt="Vittoria Lopes" />
+<!-- ===== HEADER WAVE (pipe verde do Mario) ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:43B047,100:049CD8&height=170&section=header&text=VITTORIA%20LOPES&fontColor=ffffff&fontSize=42&fontAlignY=35&font=Press%20Start%202P&desc=Analista%20de%20Sistemas%20%E2%80%A2%20Eng.%20de%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o&descAlignY=60&descSize=14" />
+
+<!-- ===== TYPING (fonte pixel) ===== -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=900&color=E52521&center=true&vCenter=true&width=620&height=55&lines=%F0%9F%8D%84+DevSecOps+%26+Cloud+Security;%E2%AD%90+Infra+as+Code+%26+Automa%C3%A7%C3%A3o;%F0%9F%9A%A9+Kubernetes+%E2%80%A2+Vault+%E2%80%A2+Grafana" alt="typing" />
 
 <br>
 
-<!-- Mario correndo (pixel art animado) -->
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="0" height="0" />
-<img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="120" alt="Mario" />
-
-<br>
-
-<img src="https://img.shields.io/badge/PLAYER-VITTORIA-E52521?style=for-the-badge&logo=nintendoswitch&logoColor=white&labelColor=049CD8" />
-<img src="https://img.shields.io/badge/CLASS-DEVSECOPS-43B047?style=for-the-badge&logoColor=white&labelColor=FBD000" />
+<!-- ===== STATUS BAR estilo HUD de jogo ===== -->
+<img src="https://img.shields.io/badge/1UP-VITTORIA-E52521?style=flat-square&labelColor=000000&color=E52521" />
+<img src="https://img.shields.io/badge/WORLD-DEVSECOPS-049CD8?style=flat-square&labelColor=000000&color=049CD8" />
+<img src="https://img.shields.io/badge/COINS-%F0%9F%AA%99%20x99-FBD000?style=flat-square&labelColor=000000&color=FBD000" />
+<img src="https://img.shields.io/badge/LIVES-%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F-43B047?style=flat-square&labelColor=000000&color=43B047" />
 
 </div>
 
-```
-╔═══════════════════════════════════════════════════════╗
-║   WORLD 1-1   >>  PRESS START  <<   ★ ★ ★   COIN x99   ║
-╚═══════════════════════════════════════════════════════╝
-```
+<br>
+
+<!-- ============================================================= -->
+<!-- SNAKE ANIMATION: a cobrinha "come" o grid de contribuições.    -->
+<!-- Requer o workflow Platane/snk (instruções no final).           -->
+<!-- ============================================================= -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vittoriaalopes/Vittoriaalopes/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vittoriaalopes/Vittoriaalopes/output/snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Vittoriaalopes/Vittoriaalopes/output/snake.svg" width="100%" />
+  </picture>
+</div>
 
 <br>
 
-<div align="center">
-<img src="https://img.shields.io/badge/-%F0%9F%8D%84%20Analista%20de%20Sistemas-E52521?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/-%E2%AD%90%20Eng.%20de%20Seguran%C3%A7a-049CD8?style=for-the-badge&labelColor=000000" />
-</div>
+## 🍄 &nbsp; WORLD 1-1 &nbsp;·&nbsp; Sobre a jogadora
 
----
+<table>
+<tr>
+<td width="60%" valign="top">
 
-## 🍄 LEVEL 1 — Sobre a jogadora
+```yaml
+jogadora:
+  nome: "Vittoria Castro Amorim Lopes"
+  classe: ["Analista de Sistemas",
+           "Eng. de Segurança da Informação"]
+  foco:
+    - DevSecOps
+    - Cloud Security
+    - Infra as Code
+  power_ups_atuais:
+    - Kubernetes
+    - Vault
+    - Grafana
+    - Ansible
+  missao: "Infra segura, escalável e automatizada 🚀"
+```
 
-> 🎮 **Objetivo:** construir infra segura, escalável e automatizada
-> 🔐 **Especialidade:** DevSecOps & Cloud Security
-> 🌱 **Power-ups atuais:** Kubernetes · Vault · Grafana · Ansible
-> 💬 **Fala comigo sobre:** cloud, segurança e automação
+</td>
+<td width="40%" valign="top" align="center">
 
----
+<img src="https://octodex.github.com/images/femalecodertocat.png" width="190" />
 
-## ⭐ LEVEL 2 — Power-Ups (Tech Stack)
+<sub>⭐ <b>Insert coin to continue</b> ⭐</sub>
 
-### 👾 Linguagens
+</td>
+</tr>
+</table>
+
+<br>
+
+## ⭐ &nbsp; WORLD 1-2 &nbsp;·&nbsp; Power-Ups (Tech Stack)
+
+<details open>
+<summary><b>👾 &nbsp;Linguagens</b></summary>
+<br>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FBD000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
 
-### 🏰 Cloud, Infra & DevSecOps
+</details>
+
+<details open>
+<summary><b>🏰 &nbsp;Cloud, Infra & DevSecOps</b></summary>
+<br>
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900&labelColor=000000)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=000000)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000)
@@ -59,15 +100,22 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=000000)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FBD000)
 
-### 🎨 Design & Produtividade
+</details>
+
+<details>
+<summary><b>🎨 &nbsp;Design & Produtividade</b></summary>
+<br>
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=000000)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=000000)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=000000)
 
----
+</details>
 
-## 🚩 LEVEL 3 — Multiplayer (Social)
+<br>
+
+## 🚩 &nbsp; WORLD 1-3 &nbsp;·&nbsp; Multiplayer (Contato)
 
 <div align="center">
 
@@ -88,16 +136,9 @@
 
 <br>
 
+<!-- ===== FOOTER WAVE ===== -->
 <div align="center">
-
-```
-  🪙 🪙 🪙   THANKS FOR PLAYING!   🪙 🪙 🪙
-       ────────  GAME  OVER?  ────────
-          Nah... CONTINUE... 3 2 1
-```
-
-<img src="https://media.giphy.com/media/YRtLlIYEUBnAIBTC2g/giphy.gif" width="90" alt="Mario flag" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:049CD8,100:43B047&height=120&section=footer&text=Thanks%20for%20playing!&fontColor=ffffff&fontSize=18&font=Press%20Start%202P&fontAlignY=70" />
 </div>
 
 <!---
