@@ -13,12 +13,6 @@
 
 <br>
 
-<!-- ===== STATUS BAR estilo HUD de jogo ===== -->
-<img src="https://img.shields.io/badge/1UP-VITTORIA-E52521?style=flat-square&labelColor=000000&color=E52521" />
-<img src="https://img.shields.io/badge/WORLD-DEVSECOPS-049CD8?style=flat-square&labelColor=000000&color=049CD8" />
-<img src="https://img.shields.io/badge/COINS-%F0%9F%AA%99%20x99-FBD000?style=flat-square&labelColor=000000&color=FBD000" />
-<img src="https://img.shields.io/badge/LIVES-%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F-43B047?style=flat-square&labelColor=000000&color=43B047" />
-
 </div>
 
 <br>
